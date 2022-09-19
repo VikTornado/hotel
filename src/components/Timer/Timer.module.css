@@ -1,0 +1,15 @@
+.title{
+    text-align: center;
+    padding: 30px;
+}
+.timerBlock{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    font-size: 74px;
+    margin: 0 auto;
+    justify-content: center;
+}
+.hours{
+
+}

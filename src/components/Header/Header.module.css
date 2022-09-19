@@ -1,0 +1,38 @@
+.header {
+    margin: auto;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    background-color: salmon;
+}
+
+.logo {
+    font-size: 24px;
+    color: white;
+    padding: 60px 0px 52px 0px;
+    text-transform: uppercase;
+    background-color: salmon;
+
+}
+
+.list {
+    text-decoration: none;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    margin-bottom: 74px;
+    margin-bottom: 100px;
+    list-style: none;
+}
+
+.item {
+    margin-bottom: 74px;
+    color: white;
+    text-transform: uppercase;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.navbar {
+
+}
